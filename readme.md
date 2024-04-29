@@ -15,7 +15,7 @@ Also, if you didn't come from the blogpost, you may be interesting on checking t
 
 ## Issues
 
-If you have any issues running your tests, please don't open issues here. Use [this](https://github.com/kirschbaum-development/laravel-test-runner-container) repository.
+If you have any issues running your tests, please don't open issues here. Use [this](https://github.com/kirschbaum-development/laravel-test-runner-container) repository
 
 ## Credits
 
